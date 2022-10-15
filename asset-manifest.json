@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.89c95c92.css",
-    "main.js": "/about-me/static/js/main.7f30b8a0.js",
+    "main.js": "/about-me/static/js/main.f37fb13a.js",
     "static/media/angad_resume.pdf": "/about-me/static/media/angad_resume.7023d472e6130f8f10cd.pdf",
     "index.html": "/about-me/index.html",
     "main.89c95c92.css.map": "/about-me/static/css/main.89c95c92.css.map",
-    "main.7f30b8a0.js.map": "/about-me/static/js/main.7f30b8a0.js.map"
+    "main.f37fb13a.js.map": "/about-me/static/js/main.f37fb13a.js.map"
   },
   "entrypoints": [
     "static/css/main.89c95c92.css",
-    "static/js/main.7f30b8a0.js"
+    "static/js/main.f37fb13a.js"
   ]
 }
