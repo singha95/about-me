@@ -14,6 +14,21 @@ class Work extends Component {
                 <div className="card card-style" >
                     <nav className="navbar">
                         <h5 className="card-title">Software Developer </h5>
+                        <h5 className="card-title"> July 2020 – Current </h5>
+                    </nav>
+                    <nav className="navbar">
+                        <h10>Government of Canada</h10>
+                    </nav>
+                    <ul>
+                        <li> Developing interal web applications. Managing microservices to add new features and to fix any bugs. </li>
+                        <li> Integrating new services to work seamlessly with application in order to add new features.  </li>
+                        <li> Using the Atlassian suite (JIRA, Confluence) to ensure stable deployments and clear communication with team members. </li>
+                        <li> Technologies: JavaScript, Angular, Java, Springboot, HTML/CSS, Git </li>
+                    </ul>
+                </div>
+                <div className="card card-style" >
+                    <nav className="navbar">
+                        <h5 className="card-title">Software Developer </h5>
                         <h5 className="card-title"> June 2020 – Aug 2021 </h5>
                     </nav>
                     <nav className="navbar">
